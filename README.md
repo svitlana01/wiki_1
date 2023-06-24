@@ -1,2 +1,2 @@
 # wiki_1
-wiki progect
+wiki project
